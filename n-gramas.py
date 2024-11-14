@@ -70,6 +70,6 @@ def generar_texto(modelo_ngramas, n, longitud, inicio):
 
 # Generar un texto de ejemplo (con trigramas, longitud 50 palabras)
 inicio = "in my younger and more"
-texto_generado = generar_texto(ngramas, n, 100, inicio)
+texto_generado = generar_texto(ngramas, n, 50, inicio)
 print("\nTexto generado:")
 print(texto_generado)
