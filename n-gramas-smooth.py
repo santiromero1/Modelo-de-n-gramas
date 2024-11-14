@@ -1,5 +1,3 @@
-## Trabajo Práctico 3 - Lenguaje ##
-
 import re
 from nltk import ngrams
 from nltk.tokenize import word_tokenize
@@ -8,8 +6,6 @@ import nltk
 import random
 
 # 1. Conseguir y limpiar un corpus de textos
-
-# Descargar datos necesarios de NLTK
 nltk.download('punkt')
 
 # Cargar el archivo
@@ -29,30 +25,41 @@ tokens = word_tokenize(texto)
 # Juntar en texto limpio sin stopwords
 texto_limpio = ' '.join(tokens)
 
-## print(texto_limpio[:500])  # Imprime los primeros 500 caracteres del texto limpio
+# 2. Modelo de n-gramas con suavizado de Laplace
 
-##########################################################################################################################################
-
-# 2. Modelo de n-gramas
-
-
-# Función de construcción
-def construir_ngramas(tokens, n):
+# Función de construcción con suavizado de Laplace
+def construir_ngramas(tokens, n, suavizado=True):
     ngramas = defaultdict(int)  # Usamos defaultdict para contar la frecuencia de cada n-grama
+    vocabulario = set(tokens)  # Conjunto de palabras únicas (vocabulario)
+    total_tokens = len(tokens)  # Total de tokens en el corpus
+    
     for ngrama in ngrams(tokens, n):  # Generamos los n-gramas
         ngramas[ngrama] += 1  # Incrementamos la frecuencia del n-grama
+    
+    # Si se aplica suavizado de Laplace
+    if suavizado:
+        # Suavizado de Laplace: Se le agrega 1 a cada frecuencia y se ajusta la probabilidad
+        for ngrama in ngramas:
+            ngramas[ngrama] += 1
+        
+        # Número total de n-gramas posibles
+        total_ngramas_posibles = len(vocabulario) ** (n - 1)
+        
+        # Aplicamos el suavizado y normalizamos las probabilidades
+        for ngrama in ngramas:
+            ngramas[ngrama] /= (total_tokens + total_ngramas_posibles)
+    
     return ngramas
 
-# Construir n-gramas para diferentes valores de n
-n = 5  # Ejemplo con trigramas (n=3)
+# Construir n-gramas con suavizado
+n = 3  # Probar con trigramas (n=3) o ajusta según lo necesites
 ngramas = construir_ngramas(tokens, n)
 
 # Mostrar los primeros 10 n-gramas y sus frecuencias
 print("Primeros 10 n-gramas:")
 print(list(ngramas.items())[:10])
 
-
-# Función de generación
+# Función de generación con suavizado
 def generar_texto(modelo_ngramas, n, longitud, inicio):
     texto_generado = inicio.split()  # Comenzamos con el inicio dado
     for _ in range(longitud):
@@ -70,6 +77,6 @@ def generar_texto(modelo_ngramas, n, longitud, inicio):
 
 # Generar un texto de ejemplo (con trigramas, longitud 50 palabras)
 inicio = "in my younger and more"
-texto_generado = generar_texto(ngramas, n, 100, inicio)
+texto_generado = generar_texto(ngramas, n, 50, inicio)
 print("\nTexto generado:")
 print(texto_generado)
