@@ -1,0 +1,72 @@
+{
+    "FlanT5": {
+        "Generated Text": "sentence: In my younger and more vulnerable years,",
+        "Accuracy": 0.0,
+        "Perplexity": 1.2605644595347465
+    },
+    "Basic N-gram (n=3)": {
+        "Generated Text": "vulnerable years my father gave me some advice that ive been turning over in new york i asked what i was going to make a list of all the time i saw that the surname of the house i must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a",
+        "Accuracy": 2.083333333333333,
+        "Perplexity": 0.8635198626103219
+    },
+    "Basic N-gram (n=5)": {
+        "Generated Text": "and more vulnerable years my father gave me some advice that ive been turning over in my mind ever since whenever you feel like criticizing anyone he told me just remember that all the people in this world havent had the advantages that youve had he didnt say any more but weve always been unusually communicative in a reserved way and i understood that he meant a great deal more than that in consequence im inclined to reserve all judgements a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores the abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person and so it came about that in college i was unjustly accused of being a politician because i was privy to the secret griefs of wild unknown men most of the",
+        "Accuracy": 0.0,
+        "Perplexity": 0.9960078490032531
+    },
+    "Basic N-gram (n=7)": {
+        "Generated Text": "my younger and more vulnerable years my father gave me some advice that ive been turning over in my mind ever since whenever you feel like criticizing anyone he told me just remember that all the people in this world havent had the advantages that youve had he didnt say any more but weve always been unusually communicative in a reserved way and i understood that he meant a great deal more than that in consequence im inclined to reserve all judgements a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores the abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person and so it came about that in college i was unjustly accused of being a politician because i was privy to the secret griefs of wild unknown men most of the",
+        "Accuracy": 0.0,
+        "Perplexity": 0.9997294647036382
+    },
+    "N-gram with Laplace Smoothing (n=3)": {
+        "Generated Text": "vulnerable years my father and as we were sitting down at a friends wife when the door bound for his restaurant and michaelis took the small white neck you dream you you absolute little dream yes admitted the child turning eagerly to his capacity for wonder and as we came in she jumped up and said sh and we have framed downstairs two what demanded tom yes well you come to tea in the period craze a decade before and surviving the laughter and casual innuendo and obviously under the moon had risen higher and floating rounds of cocktails permeate the garden ladies and gentlemen he cried at the end waited with his legs apart on the ground with a simplicity of heart that was in daisys house had never seen gatsby that her left breast was swinging loose like a photograph of a wall accounted for the janitor and sent him",
+        "Accuracy": 0.0,
+        "Perplexity": 111363120537.40219
+    },
+    "N-gram with Laplace Smoothing (n=5)": {
+        "Generated Text": "and more vulnerable years my father gave me some advice that ive been turning over in my mind ever since whenever you feel like criticizing anyone he told me just remember that all the people in this world havent had the advantages that youve had he didnt say any more but weve always been unusually communicative in a reserved way and i understood that he meant a great deal more than that in consequence im inclined to reserve all judgements a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores the abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person and so it came about that in college i was unjustly accused of being a politician because i was privy to the secret griefs of wild unknown men most of the",
+        "Accuracy": 0.0,
+        "Perplexity": 4.795216791290713e+18
+    },
+    "N-gram with Laplace Smoothing (n=7)": {
+        "Generated Text": "my younger and more vulnerable years my father gave me some advice that ive been turning over in my mind ever since whenever you feel like criticizing anyone he told me just remember that all the people in this world havent had the advantages that youve had he didnt say any more but weve always been unusually communicative in a reserved way and i understood that he meant a great deal more than that in consequence im inclined to reserve all judgements a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores the abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person and so it came about that in college i was unjustly accused of being a politician because i was privy to the secret griefs of wild unknown men most of the",
+        "Accuracy": 0.0,
+        "Perplexity": 1.8833031363181163e+26
+    },
+    "Advanced N-gram (k=1)": {
+        "Generated Text": "vulnerable years my father gave me some advice that ive been turning over in new york i asked what i was going to make a list of all the time i saw that the surname of the house i must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a",
+        "Accuracy": 2.083333333333333,
+        "Perplexity": 9999999999.896229
+    },
+    "Advanced N-gram (k=3)": {
+        "Generated Text": "vulnerable years my father snobbishly suggested and i was a small investigation of his beach while his station wagon scampered like a great deal more than that he was a matter for reproachbut now hed left chicago and come east you cant repeat the past month and found to my house was even more with the city but it looks wonderful on you if youll pardon myyou see i usually find myself among strangers because i drift here and they dont see or care perhaps daisy never went into west egg in the garden where a yellow car he said he knew that first i din notice wed stopped a pause in the room im stiff she complained you go he followed me wildly into the garden where a yellow light in the hall when i was in august a week i got to get one for the first time in its",
+        "Accuracy": 2.083333333333333,
+        "Perplexity": 9999999999.896229
+    },
+    "Advanced N-gram (k=5)": {
+        "Generated Text": "vulnerable years my father carries on today i never will she answered he owned some drugstores a lot of business if he had just said possibly it had precisely the impression that he had changed her dress all wet to the floor the younger of the house a breeze blew through the room he smiled at any moment the centre of a clan and we all looked at me i said after a moment and got her dress and half an hour beforeand ran for a while i watched him he became known as the earth blew the wires and made them feel more satisfactorily alone i was brought most people were brought jordan looked around most of it the jingle of it at night but as i have to know about it but a glance at him and then the same ones in physical person but they made no difference between",
+        "Accuracy": 0.0,
+        "Perplexity": 9999999999.896229
+    },
+    "Advanced N-gram (k=7)": {
+        "Generated Text": "vulnerable years my father and a bath the livingroom i heard that you dropped in from the car that hadnt been aired for many years said daisy cynically no hes a smart man i insisted on paying the check as the full bellows of the house drifting up on tiptoes and peered over a nonexistent nose evidently some wild strident argument which pulled me back as if it wasnt for the first word she was very very sadshe was not enough of him seized him firmly by the back cover and turned it around for me i think he could make something of a clan and we sat down discreetly in the air dumps it down for a minute shed look around uneasily and say goodbye jordans party were calling impatiently to her but i know ive been trying to hear all about it tom very romantic outdoors theres a garage who",
+        "Accuracy": 0.0,
+        "Perplexity": 9999999999.896229
+    },
+    "Word2Vec (window=5)": {
+        "Generated Text": "vulnerable younger years more recently",
+        "Accuracy": 0.0,
+        "Perplexity": 5094138014.816225
+    },
+    "Word2Vec (window=10)": {
+        "Generated Text": "vulnerable advice younger years affected",
+        "Accuracy": 2.083333333333333,
+        "Perplexity": 3334353408.0259
+    },
+    "GPT-2": {
+        "Generated Text": "In my younger and more vulnerable years, I had a very good idea of what a good sport it was. I was a football player, and I loved to play against the best and the best, and sometimes I was just as bad as any of them. I remember the football match with the best and the best, and there were no medals and no medals. It was the sport of the East End, where the best played, and the best won, and where the best lost.\n\n\u201cSo what sport?\u201d\n\n\u201cI think you can\u2019t call it football,\u201d answered Gatsby.\n\n\u201cI can\u2019t,\u201d I said. \u201cWhy don\ufffd",
+        "Accuracy": 12.5,
+        "Perplexity": 71.39110043243605
+    }
+}

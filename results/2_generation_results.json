@@ -1,0 +1,72 @@
+{
+    "FlanT5_Generation_1": {
+        "Generated Text": "one in a tepee with a sharp, squirming, whimpering, and sneezing frog, wailing and trembling, and with twitching and shrill, shrimping and thrashing, with fluttering and deftness, with the shrewdest, most ferocious, most sharp, and sharp, with my flimsy, gleeful, eloquent, oblivious, utterly engrossed.",
+        "Accuracy": 0.0,
+        "Perplexity": 1.1858564377767549
+    },
+    "Basic N-gram (n=3)": {
+        "Generated Text": "vulnerable years my father gave me some advice that ive been turning over in new york i asked what i was going to make a list of all the time i saw that the surname of the house i must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a",
+        "Accuracy": 2.083333333333333,
+        "Perplexity": 0.8635198626103219
+    },
+    "Basic N-gram (n=5)": {
+        "Generated Text": "and more vulnerable years my father gave me some advice that ive been turning over in my mind ever since whenever you feel like criticizing anyone he told me just remember that all the people in this world havent had the advantages that youve had he didnt say any more but weve always been unusually communicative in a reserved way and i understood that he meant a great deal more than that in consequence im inclined to reserve all judgements a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores the abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person and so it came about that in college i was unjustly accused of being a politician because i was privy to the secret griefs of wild unknown men most of the",
+        "Accuracy": 0.0,
+        "Perplexity": 0.9960078490032531
+    },
+    "Basic N-gram (n=7)": {
+        "Generated Text": "and more vulnerable years my father gave me some advice that ive been turning over in my mind ever since whenever you feel like criticizing anyone he told me just remember that all the people in this world havent had the advantages that youve had he didnt say any more but weve always been unusually communicative in a reserved way and i understood that he meant a great deal more than that in consequence im inclined to reserve all judgements a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores the abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person and so it came about that in college i was unjustly accused of being a politician because i was privy to the secret griefs of wild unknown men most of the",
+        "Accuracy": 0.0,
+        "Perplexity": 0.9997294647036382
+    },
+    "N-gram with Laplace Smoothing (n=3)": {
+        "Generated Text": "vulnerable years my father snobbishly suggested and i want to ask me questions in her lap by the newsstand she bought a dozen reasons why his wife was shrill languid handsome and horrible she told me they meet all trains and on again as if it runs out i can still read the papers said they thought the whole corner of his shoulder moved under his thin coat it was gatsby looking a little afraid of missing something if i could reach them i call montauk pointthe sea the sister catherine was a warm windy afternoon and tom was feeling the hot night lay on the trees that had amused his guests during the war i enjoyed looking at them and they will give you a family tradition he looked guilty unforgivably guiltyas if he had just bought a hydroplane and at any rate cody asked him what business he was nephew",
+        "Accuracy": 0.0,
+        "Perplexity": 111363120537.40219
+    },
+    "N-gram with Laplace Smoothing (n=5)": {
+        "Generated Text": "and more vulnerable years my father gave me some advice that ive been turning over in my mind ever since whenever you feel like criticizing anyone he told me just remember that all the people in this world havent had the advantages that youve had he didnt say any more and after a moment i discovered his tiny eyes in the halfdarkness so i took one look at him said mr wolfshiem shaking my hand earnestly and what do you think he demanded impetuously about what he waved his hand toward the bookshelves about that as a matter of fact he had no such facilitieshe had no comfortable family standing behind him and he was liable at the whim of an impersonal government to be blown anywhere about the world but he didnt despise himself and it didnt turn out as he had imagined he had intended probably to take what he could and",
+        "Accuracy": 0.0,
+        "Perplexity": 4.795216791290713e+18
+    },
+    "N-gram with Laplace Smoothing (n=7)": {
+        "Generated Text": "my younger and more vulnerable years my father gave me some advice that ive been turning over in my mind ever since whenever you feel like criticizing anyone he told me just remember that all the people in this world havent had the advantages that youve had he didnt say any more but weve always been unusually communicative in a reserved way and i understood that he meant a great deal more than that in consequence im inclined to reserve all judgements a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores the abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person and so it came about that in college i was unjustly accused of being a politician because i was privy to the secret griefs of wild unknown men most of the",
+        "Accuracy": 0.0,
+        "Perplexity": 1.8833031363181163e+26
+    },
+    "Advanced N-gram (k=1)": {
+        "Generated Text": "vulnerable years my father gave me some advice that ive been turning over in new york i asked what i was going to make a list of all the time i saw that the surname of the house i must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a",
+        "Accuracy": 2.083333333333333,
+        "Perplexity": 9999999999.896229
+    },
+    "Advanced N-gram (k=3)": {
+        "Generated Text": "vulnerable years my father carries on today i never was any longer real once he nearly toppled down a flight of stairs his bedroom was the first drink mrs wilson sat discreetly in the room and woke me up and down upon some vivid scene with an erect carriage which she and tom and i was a slender worldly girl of about thirty with a man in the garden outside until the inevitable swimming party had run up chilled and exalted from the car under its shed and sat for a moment i thought you might pick up a nice durable cardboard matter of chance that i think its her husband as if she were getting into bed all right he asked helplessly i did i have an idea that gatsby drank so little sometimes in my mind ever since his name was jay gatsby had filled out to you about this",
+        "Accuracy": 0.0,
+        "Perplexity": 9999999999.896229
+    },
+    "Advanced N-gram (k=5)": {
+        "Generated Text": "vulnerable years my father snobbishly suggested and i thought of the year she looked at me in a few veteran bores the abnormal mind is quick to detect and attach itself to his house she said suddenly that included jordan too she declared vigorously i almost married a little after seven he was silent for a while since and that night i was a boy it just shows you dont understand why you wont come out on to the porch his hand on his own pale hair as it had seemed like the murmur trembled on the train one afternoon and when the phone and id known do you know him i live next door oh i will he broke off and began throwing them one spring in cannes and later from college at christmas time those who came into her rich full life leaving gatsbynothing he felt their presence all about",
+        "Accuracy": 0.0,
+        "Perplexity": 9999999999.896229
+    },
+    "Advanced N-gram (k=7)": {
+        "Generated Text": "vulnerable years my father carries on today i never care what its founded on when i came home to west egg she remarked contemptuously i know somebody there i dont believe everything you hear he cried triumphantly its a great portfolio in his hand back and forth and holding to the table together with a series of beginnings why i came home to sleep i told them idiotically i think it was a person infinitely rare and to postpone the funeral i went inside the interior was unprosperous and bare the only completely stationary object in it even toward people he likedand there were men at new havena national figure in a moment i discovered his tiny eyes in the hall so i had heard some of these wornout men when the proprietor of an elaborate afternoon dress of creamcoloured chiffon which gave out a continual rustle as she turned to daisy",
+        "Accuracy": 0.0,
+        "Perplexity": 9999999999.896229
+    },
+    "Word2Vec (window=5)": {
+        "Generated Text": "vulnerable younger years more recently",
+        "Accuracy": 0.0,
+        "Perplexity": 5094138014.816225
+    },
+    "Word2Vec (window=10)": {
+        "Generated Text": "vulnerable advice younger years affected",
+        "Accuracy": 2.083333333333333,
+        "Perplexity": 3334353408.0259
+    },
+    "GPT-2": {
+        "Generated Text": "In my younger and more vulnerable years I was\ndisciplined, and I had a hard time concentrating. I was always on the verge of\nfailing to get out of bed. I was so absorbed that I could hardly\nbelieve that something was up. So I went to the library and got a copy of\nW. G. B. White \u2018The Rise and Fall of the American Legion\u2014\u2019 which\ntook up so much of the mind of the late director,\u201d and I\nmade a copy of it\u2014then I went back and bought it again later in\nthe year.\n\nI read it again in college, and it was fantastic, and so I went back to\nChicago and wrote",
+        "Accuracy": 16.666666666666664,
+        "Perplexity": 63.23438386770578
+    }
+}

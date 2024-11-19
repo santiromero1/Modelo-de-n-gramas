@@ -1,0 +1,86 @@
+{
+    "FlanT5_e3": {
+        "Generated Text": "my head and cried with a gleeful, remorseful reluctance. Then, he sat up, his eyes wide-mouthed, and his lips cleavagely pierced, his ribs slashed, his jaws clenched, his teeth slammed, his mouths rippling, his breaths resoundingly resolute, his lips rasping, his cheeks thinning, his foreheads wailing, his tongues tingling",
+        "Perplexity": 1.2290681374333425,
+        "Jaccard Similarity (bigrams)": 0.0,
+        "Cosine Similarity": 0.053556487439197824,
+        "BERTScore F1": 0.5537160634994507
+    },
+    "FlanT5_e10": {
+        "Generated Text": "shrewd, witty, and sassy way of expressing my own feelings and thoughts: I can’t express my own thoughts and thoughts, and I’m unable to express them in a more eloquent, resolute way.’’ “I’m determined,’’ he remarked, ‘I’ll.’” “I can.’ I’ll.” “I know. I know. You’re. You. I.’. You, too. I’ve learned. I have learned. My.",
+        "Perplexity": 1.0510351280095944,
+        "Jaccard Similarity (bigrams)": 0.0,
+        "Cosine Similarity": 0.3106041751454908,
+        "BERTScore F1": 0.6515761613845825
+    },
+    "FlanT5_e100": {
+        "Generated Text": ", which made me a good person to be around, and a great person to spend time with, and care for, and to be a part of a community of people who are willing to help and support each other, and who want to be part of the community that I am in, so that I can continue to grow as a person, and help others who are in need of help, to help them through their difficult times, to make a difference in the lives of others, to give back to their community, to share their stories, to inspire others to do the same, to show others that they are not alone, and that they can help others.",
+        "Perplexity": 1.0720986509308552,
+        "Jaccard Similarity (bigrams)": 0.005917159763313609,
+        "Cosine Similarity": 0.19659725317213306,
+        "BERTScore F1": 0.6337746381759644
+    },
+    "Basic N-gram (n=3)": {
+        "Generated Text": "vulnerable years my father gave me some advice that ive been turning over in new york i asked what i was going to make a list of all the time i saw that the surname of the house i must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a small town he must have been surprised to see you said tom after a moment i thought you might be on the table in the garden it was a",
+        "Perplexity": 0.38755787422535765,
+        "Jaccard Similarity (bigrams)": 0.10619469026548672,
+        "Cosine Similarity": 0.3823009514885852,
+        "BERTScore F1": 0.5854514241218567
+    },
+    "Basic N-gram (n=5)": {
+        "Generated Text": "and more vulnerable years my father gave me some advice that ive been turning over in my mind ever since whenever you feel like criticizing anyone he told me just remember that all the people in this world havent had the advantages that youve had he didnt say any more but weve always been unusually communicative in a reserved way and i understood that he meant a great deal more than that in consequence im inclined to reserve all judgements a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores the abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person and so it came about that in college i was unjustly accused of being a politician because i was privy to the secret griefs of wild unknown men most of the",
+        "Perplexity": 1.0,
+        "Jaccard Similarity (bigrams)": 0.20348837209302326,
+        "Cosine Similarity": 0.6870332677190849,
+        "BERTScore F1": 0.7015945911407471
+    },
+    "N-gram with Laplace Smoothing (n=3)": {
+        "Generated Text": "vulnerable years my father carries on today i never like to do more work you wouldnt have been mistaken the incident and the satisfaction that the thing had an easier surer way of finding out what your drugstores were he turned his head leaned back so i took dinner usually at the edge of a ferryboat across the moonlight and i want you to have mastered a certain hardy scepticism was able to do anything that wasnt all right katspaugh dont pay him a few minutes i was standing with daisy and jordan lay upon an enormous couch like silver safe and proud above the treeshe could climb to it and i was looking at her she was appalled by west egg after you had a way that every young girl wants to go on living with them out of bed and all talking in low earnest voices to solid and prosperous",
+        "Perplexity": 111550020499.82973,
+        "Jaccard Similarity (bigrams)": 0.01485148514851485,
+        "Cosine Similarity": 0.3570838203861693,
+        "BERTScore F1": 0.6020251512527466
+    },
+    "N-gram with Laplace Smoothing (n=5)": {
+        "Generated Text": "and more vulnerable years my father gave me some advice that ive been turning over in my mind ever since whenever you feel like criticizing anyone he told me just remember that all the people in this world havent had the advantages that youve had he didnt say any more and after a moment i returned rather feebly to the subject of her daughter i suppose she talks andeats and everything oh yes she looked at me over again will you justwhat was your name she vanished in a moment meyer wolfshiem stood solemnly in the doorway holding out both hands he drew me into his office remarking in a reverent voice that it was a crazy ideawe all talked at once to a baffled clerk and thought or pretended to think that we were being very funny the room was large and stifling and though it was already four oclock opening the windows",
+        "Perplexity": 4.806640820469185e+18,
+        "Jaccard Similarity (bigrams)": 0.20348837209302326,
+        "Cosine Similarity": 0.6634155111586352,
+        "BERTScore F1": 0.6838191747665405
+    },
+    "Advanced N-gram (k=5)": {
+        "Generated Text": "vulnerable years my father snobbishly suggested and i was brought up in the garden welcome or not i found her lying on that june night three months trip to the end waited with his fists clenched in his coat pockets he stalked by me into his faded eyes look in the hall when klipspringer had played the love nest he turned up as though it were five years taxes on all the back door but all the cars from new orleans in june somebody fainted who was going overseas she was in turn steward mate skipper secretary and even more elaborate than i was brought up in it did that night gatsby believed in its monstrous length with triumphant hatboxes and supperboxes and toolboxes and terraced with a jerk and got up his eyes meanwhile roved very slowly bending toward her an irrelevant criticism that made him step on the other side",
+        "Perplexity": 10000000000.000288,
+        "Jaccard Similarity (bigrams)": 0.020202020202020204,
+        "Cosine Similarity": 0.41155259037575703,
+        "BERTScore F1": 0.5808547139167786
+    },
+    "Advanced N-gram (k=7)": {
+        "Generated Text": "vulnerable years my father snobbishly suggested and i started away just before noon the straw seats of the house miss baker said absolutely with such suddenness that i wanted no more riotous excursions with privileged glimpses into the garden there were gay exciting things hovering in the middle thirties and faintly handsome when he had been depressed by a gentleman of that tangle back home there was an eyesore but it wasnt any use nobody came about five oclock it was on the train i was rather literary in collegeone year i went to oggsford college in england you know there was an allnight restaurant approached by a courtesy bay jut out into the house i wish youd tell anybody whod be interested oh i think that you didnt mean to but you got your stables here asked gatsby with an absolute smirk on her bed as lovely as the full bellows",
+        "Perplexity": 10000000000.000288,
+        "Jaccard Similarity (bigrams)": 0.025252525252525252,
+        "Cosine Similarity": 0.3718271713337522,
+        "BERTScore F1": 0.5835132002830505
+    },
+    "GPT-2_e3": {
+        "Generated Text": "In my younger and more vulnerable years I was told to wait until I was old enough to come\nto a party. Nowadays there are many parties in my house, and I\noften have a little party with some guests from the East Indies.\n\n“What’s the party?” I asked.\n\n“I’m a little party.”\n\n“You’re a little party,” said Daisy, as I looked at her. “What’s the party?”\n\n“It’s a little party.”\n\n“Oh, you’re a little party!”\n\n“I�",
+        "Perplexity": 3.870968204316653,
+        "Jaccard Similarity (bigrams)": 0.05925925925925926,
+        "Cosine Similarity": 0.2637674806699988,
+        "BERTScore F1": 0.6649113297462463
+    },
+    "GPT-2_e10": {
+        "Generated Text": "In my younger and more vulnerable years, I didn’t\nthink of myself as a hard-drinking, hard-lazy person. I saw\nit as an opportunity to show off my physical and moral superiority to\nthe world, to show off my physical and moral superiority to\nthe wealthy, to show off my physical and moral superiority to\nthe poor. I had a hard time getting that message across to other people, because\nmy physical and moral superiority was so concentrated in my head that I\ndidn’t realize that it was a universal phenomenon. For the most part, the\npoor didn’t see themselves as superior to the rich, but rather as\nmerely the other way around, the result",
+        "Perplexity": 3.7442365159482613,
+        "Jaccard Similarity (bigrams)": 0.047619047619047616,
+        "Cosine Similarity": 0.37290576943092324,
+        "BERTScore F1": 0.6661989688873291
+    },
+    "GPT-2_e100": {
+        "Generated Text": "In my younger and more vulnerable years I always had the impression that\nmost people were single men. They were, after all, the\npersons most remotely interested in women. Moreover, I had been\ninfuriated by the rather grotesque contrast between the well-to-do and the\nbelow-the-table crowd. The bored, shortsighted young men in yachting\nclothes kept us all off the sidewalks, and whenever we passed a\nstoreroom full of cigarettes priced at fifty a dozen dollars\na dozen high. I was sure that if one of the clerks at the\ncounter asked you a few questions you could guess at his or her secret\nidea—and you didn’t have to know about",
+        "Perplexity": 1.8741892252524732,
+        "Jaccard Similarity (bigrams)": 0.04142011834319527,
+        "Cosine Similarity": 0.4432175195234291,
+        "BERTScore F1": 0.6681303381919861
+    }
+}
